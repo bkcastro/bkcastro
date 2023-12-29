@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Three.js Journey](https://threejs-journey.com/)
-- 🌱 I’m currently learning three.js and webGPU
+- 🌱 I’m currently learning Three.js and WebGPU
 - 👯 I’m looking to collaborate on 3D web projects
 - 📫 How to reach me: bcastro9@ucsc.edu
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: I'm a gear head with the best 240sx
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a gearhead with the best 240sx
 
   
 <!--
