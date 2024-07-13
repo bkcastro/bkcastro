@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on XR/VR experiences on the web. 
-- 🌱 I’m currently learning WebXR.
-- 📫 How to reach me: bcastro9@ucsc.edu
+- 📫 How to reach me: c1brandon626@gmail.com
 
   
 <!--
